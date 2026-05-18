@@ -1,4 +1,4 @@
 streamlit
 numpy
-scikit-learn == 1.5.2
+scikit-learn==1.5.2
 re
